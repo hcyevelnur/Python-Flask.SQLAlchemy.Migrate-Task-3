@@ -1,0 +1,28 @@
+.padd-100{
+    padding-top: 50px;
+}
+
+.padd-10{
+    padding-top: 50px;
+}
+
+.he-1{
+    height: 300px;
+}
+
+body{
+    background-color: rgb(237, 237, 237);
+}
+
+.card{
+    position: relative !important;
+    display: flex !important;
+    justify-content: space-around;
+    flex-direction: column !important; 
+    min-width: 0 !important;
+    word-wrap: break-word !important;
+    background-color: #fff !important;
+    background-clip: border-box !important;
+    border: 1px solid rgba(0,0,0,.125) !important;
+    border-radius: 0.25rem !important;
+}
